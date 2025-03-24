@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <filter id="kc1b3w5dga" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur stdDeviation="1" result="blur"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#kc1b3w5dga)">
+        <g data-name="Path 976" style="fill:#39d8ff">
+            <path d="M21 41.5a20.432 20.432 0 0 1-14.496-6.004A20.432 20.432 0 0 1 .5 21 20.432 20.432 0 0 1 6.504 6.504 20.432 20.432 0 0 1 21 .5a20.432 20.432 0 0 1 14.496 6.004A20.432 20.432 0 0 1 41.5 21a20.432 20.432 0 0 1-6.004 14.496A20.432 20.432 0 0 1 21 41.5z" style="stroke:none" transform="translate(3 3)"/>
+            <path d="M21 1A19.935 19.935 0 0 0 6.858 6.858 19.935 19.935 0 0 0 1 21a19.935 19.935 0 0 0 5.858 14.142A19.935 19.935 0 0 0 21 41a19.935 19.935 0 0 0 14.142-5.858A19.935 19.935 0 0 0 41 21a19.935 19.935 0 0 0-5.858-14.142A19.935 19.935 0 0 0 21 1m0-1c11.598 0 21 9.402 21 21s-9.402 21-21 21S0 32.598 0 21 9.402 0 21 0z" style="fill:#000;stroke:none" transform="translate(3 3)"/>
+        </g>
+    </g>
+    <g data-name="Group 3170">
+        <path data-name="Union 36" d="M22.288 33.727V26.49h-4.133v7.236H8.862v-6.974L19.19 16.18v-1.051h-2.07v-2.061h2.07V11h2.063v2.068h2.07v2.061h-2.07v1.059l10.332 10.564v6.975z"/>
+        <path data-name="Path 945" d="M23.114 16.366h6.336l9.691 9.645v7.895h-6.594v-7.895z"/>
+    </g>
+</svg>

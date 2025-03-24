@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="icn_mifi_selected" transform="translate(-441 -180)">
+    <rect id="Rectangle_1963" data-name="Rectangle 1963" width="18" height="18" transform="translate(441 180)" fill="none"/>
+    <g id="Group_3020" data-name="Group 3020" transform="translate(7.501 -0.237)">
+      <path id="Path_915" data-name="Path 915" d="M15.772,7.2l.858-1.176A12.65,12.65,0,0,0,8.627,3a12.6,12.6,0,0,0-8,3.024L8.62,16.986,8.627,17l.006-.007,4.443-6.1Z" transform="translate(433.869 179.237)" fill="rgba(30,30,30,0.3)"/>
+      <path id="Union_7" data-name="Union 7" d="M5.732,10.2l-.005-.006h0L5.72,10.2l-.006-.007-.03-.06L0,2.287c.022-.017.058-.049.107-.094A8.28,8.28,0,0,1,5.664,0h.125A9.313,9.313,0,0,1,11.57,2.05l.056.045L5.771,10.13l-.031.062-.006.006h0Z" transform="translate(436.758 186.038)" fill="#1e1e1e"/>
+    </g>
+  </g>
+</svg>

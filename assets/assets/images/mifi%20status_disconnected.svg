@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="mifi_status_disconnected" data-name="mifi status_disconnected" transform="translate(-124 -419)">
+    <rect id="Rectangle_1980" data-name="Rectangle 1980" width="18" height="18" transform="translate(124 419)" fill="none"/>
+    <g id="Group_3104" data-name="Group 3104" transform="translate(-536 -104)">
+      <circle id="Ellipse_222" data-name="Ellipse 222" cx="5" cy="5" r="5" transform="translate(664 527)" fill="#8e8e8e"/>
+      <path id="Subtraction_22" data-name="Subtraction 22" d="M3.1,5.653h0l0-.006L0,1.221.021,1.2A4.789,4.789,0,0,1,3.1,0,4.738,4.738,0,0,1,6.174,1.2l.024.021L5.866,1.7,4.822,3.188,3.1,5.65Zm0-2.137a.31.31,0,0,0-.31.31v.032a.31.31,0,1,0,.619,0V3.826A.31.31,0,0,0,3.1,3.516ZM3.1.653a.31.31,0,0,0-.31.31v1.99a.31.31,0,0,0,.619,0V.962A.31.31,0,0,0,3.1.653Z" transform="translate(665.901 529.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

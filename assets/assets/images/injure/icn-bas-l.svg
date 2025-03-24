@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <filter id="wmdhrk3r0a" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur stdDeviation="1" result="blur"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#wmdhrk3r0a)">
+        <g data-name="Rectangle 2003" transform="translate(3 3)" style="fill:#39d8ff;stroke:#000">
+            <rect width="42" height="42" rx="21" style="stroke:none"/>
+            <rect x=".5" y=".5" width="41" height="41" rx="20.5" style="fill:none"/>
+        </g>
+    </g>
+    <path data-name="Subtraction 48" d="M21.634 33.998H11v-9l12.995-15 13.005 15v9H26.363v-9.339h-4.73v9.339z"/>
+</svg>
